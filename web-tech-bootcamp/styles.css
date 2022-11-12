@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(17, 130, 175);
+   background-color:  #696969;
 }
 
 
@@ -36,10 +36,11 @@ article {
 }
  
 
+
 h1, h2, h3, strong {
-  color: red;
+  color: white;
 }
 
 #eftermäle, p {
-  color: greenyellow;
+  color: white;
 }
